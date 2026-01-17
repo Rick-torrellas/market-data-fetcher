@@ -1,7 +1,11 @@
-📊 Crypto Assistant Bot v1.0
+# 📊 Crypto Assistant Bot v1.0
+
 Welcome to your new market assistant! This tool allows you to analyze cryptocurrencies in real-time, view trend charts, and receive Buy or Sell recommendations based on technical indicators—all without writing a single line of code.
 
-🚀 Key Features
+___
+
+## 🚀 Key Features
+
 Live Connection: Fetches real-time data from Binance, Kraken, and other major exchanges.
 
 Smart Analysis: Automatically calculates RSI (Market Strength) and Moving Averages (Trend).
@@ -10,7 +14,8 @@ AI Recommendations: The assistant tells you if the market is in a Buy, Sell, or 
 
 Data Export: Download your analyzed data directly to a CSV/Excel-compatible file with one click.
 
-🛠️ Installation (First Time Only)
+## 🛠️ Installation (First Time Only)
+
 Before starting, ensure you have Python installed on your computer. You can download it at python.org.
 
 Download this project and unzip the folder.
@@ -26,7 +31,7 @@ pip install -r requirements.txt
 Depending on your operating system, choose the easiest option:
 
 🪟 Windows (The Easy Way)
-Simply look for the file named START_BOT.bat and double-click it. A black window will briefly appear, and then the app will automatically open in your web browser.
+Simply look for the file named init_bot.bat and double-click it. A black window will briefly appear, and then the app will automatically open in your web browser.
 
 🍎 Mac or 🐧 Linux
 Open your Terminal.
